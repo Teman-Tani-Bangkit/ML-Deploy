@@ -14,6 +14,10 @@
 ### Overview
 This is a code for Teman Tani machine learning deployment. We using Cloud Run on Google Cloud Platform for the deployment and we using Flask to make the API endpoint for Backend can access the model. We also using Docker to make the container for the deployment.
 
+### Link Deployment
+- Disease: https://ml-disease-xmyrxrwica-et.a.run.app
+- Recommendation: https://ml-recommendation-xmyrxrwica-et.a.run.app 
+
 ### How to deploy
 1. Clone this repository
 2. Install the Google Cloud SDK
